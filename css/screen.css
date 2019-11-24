@@ -1,0 +1,9 @@
+@media screen and (min-width: 1000px){
+@import"css/reset.css";
+@import"css/style.css";
+@import"css/menu.css";
+@import"css/reset.css";
+@import"css/2.css";
+@import"css/print.css";
+@import"css/reset.css";
+}

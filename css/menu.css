@@ -1,0 +1,32 @@
+.navig {
+  list-style: none; /*убираем маркеры списка*/
+  margin:0; /*убираем отступы*/
+  padding-left: 0px; /*убираем отступы*/
+  margin-top:25px; /*делаем отступ сверху*/
+  height: 50px; /*задаем высоту*/
+  width: 100%;
+  min-width: 1000px;
+}
+
+.navig a {
+  text-decoration: none; /*убираем подчеркивание текста ссылок*/
+  background-image: linear-gradient(#843894, #EBD1F1);
+  color:#000000; /*меняем цвет ссылок*/
+  padding:0px 41px; /*добавляем отступ*/
+  font-family: arial; /*меняем шрифт*/
+  line-height:50px; /*ровняем меню по вертикали*/
+  margin-top:22px;
+  display: block; 
+  width: 60px;
+  font-size:11pt;
+  text-align: center;
+  border-right: 1px solid #000000; /*добавляем бордюр справа*/
+}
+
+.navig a:hover {
+  background:#D9ACE3;/*добавляем эффект при наведении*/
+}
+
+.navig li {
+  float:left; /*Размещаем список горизонтально для реализации меню*/
+}

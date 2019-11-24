@@ -1,0 +1,9 @@
+﻿      <meta charset="utf-8">
+	  <link href="css/reset.css" rel="stylesheet">
+      <link href="css/style.css" rel="stylesheet">
+      <link href="css/menu.css" rel="stylesheet">
+      <link href="css/2.css" rel="stylesheet">	 
+	  <link href="css/print.css" rel="stylesheet">
+	  <link href="../css/screenm.css" rel="stylesheet">
+	  <meta name="viewport" content="width=720">
+	  

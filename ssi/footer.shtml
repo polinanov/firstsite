@@ -1,0 +1,6 @@
+﻿	  &copy; Новикова Полина &#124; STAR
+	  <p><!--#config timefmt="Дата создвния проекта: %d.%m.%y"-->
+      <!--#flastmod file="footer.shtml"--></p>
+	  <p><!--#config timefmt="Текущая дата: %d.%m.%y"-->
+	  <!--#echo var="DATE_LOCAL"--></p>
+	  

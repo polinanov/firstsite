@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+   <head>
+      <title>Блог</title>
+	  <!--#include file="ssi/link.meta.shtml"-->  	  
+   </head>
+   <body>
+      <!-- Header -->
+      <header>
+         <a href="#" title="Вернуться к началу" class="topbutton"><img class="top_button" src="img/rocket.png" alt="Ракета, перемещающая наверх"></a>
+         <nav>
+            <a class="logo"  href="index.shtml"> <img src="img/st.png" alt="Логотип"></a>
+            <ul class="navig">
+               <li><a href="index.shtml">Главная</a></li>
+               <li><a href="2Gallery.shtml">Галерея</a></li>
+               <li><a href="3InterestingFacts.shtml">Факты</a></li>
+               <li><a href="4Contacts.shtml">Контакты</a></li>
+               <li><a>Блог</a></li>
+            </ul>
+         </nav>
+      </header>
+      <!-- End Header -->
+      <!-- Main -->
+      <div class="main_blog">
+         <h1>Вторая Земля нашлась?</h1>
+         <span><time>2016-10-30</time> &#124; Новикова Полина</span>
+         <img src="img/b0.jpg" alt="Земля"> 
+         <p>Ученые NASA сделали потрясающее открытие &ndash; 23 июля 2015 года удалось обнаружить планету, схожую с нашей Землей. Космическое тело было обнаружено в созвездии Лебедя с помощью орбитального телескопа «Кеплер». Ученые присвоили новой планете название Kepler-452b.</p>
+         <form action="blog/1strb.shtml">
+            <button class="button_">Читать далее</button>
+         </form>
+      </div>
+      <br>
+      <div class= "main_blog">
+         <h1>Кино о космосе. Все вы врете!</h1>
+         <span><time>2016-11-03</time> &#124; Новикова Полина</span>
+         <img src="img/bb1.jpg" alt="Галактика">
+         <p>Киноленты о космических приключениях и путешествиях приковывают внимание с первых же минут. И это легко объяснить &ndash;  неизведанные просторы космоса интересны, загадочны и необычны. Но не всегда режиссеры радуют нас правдоподобными кадрами, добавляя в фильм детали, явно не соответствующие реальности. Итак, разберем самые распространенные мифы.</p>
+         <form action="blog/2strb.shtml">
+            <button class="button_">Читать далее</button> 
+         </form>
+      </div>
+      <!-- End Main -->
+      <!-- Footer -->
+      <footer>
+         <!--#include file="ssi/footer.shtml"-->
+      </footer>
+      <!-- End Footer -->
+   </body>
+</html>

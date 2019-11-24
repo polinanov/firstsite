@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+   <head>
+      <title>Контакты</title>
+	  <!--#include file="ssi/link.meta.shtml"-->  	  
+   </head>
+   <body>
+      <!-- Header -->
+      <header>
+         <a href="#" title="Вернуться к началу" class="topbutton"><img class="top_button" src="img/rocket.png" alt="Ракета, перемещающая наверх"></a>
+         <nav>
+            <a class="logo"  href="index.shtml"> <img src="img/st.png" alt="Логотип"></a>
+            <ul class="navig">
+               <li><a href="index.shtml">Главная</a></li>
+               <li><a href="2Gallery.shtml">Галерея</a></li>
+               <li><a href="3InterestingFacts.shtml">Факты</a></li>
+               <li><a>Контакты</a></li>
+               <li><a href="5Blog.shtml">Блог</a></li>
+            </ul>
+         </nav>
+      </header>
+      <!-- End Header -->
+      <!-- Main -->
+      <div class="contacts">
+         <h1>Контакты</h1>
+         <img class="gl_contactsimg" src="img/kkkk.jpg" alt="Контакты">           
+         <p>Дорогие друзья и единомышленники! На нашем сайте собрана информация о нашей галактике и не только. Этот контент поможет вам увидеть образ каждого типа звезд и отметить характерные черты, сделает процесс познавания простым и понятным. Галерея фотографий создана из материалов, находящихся в свободном доступе в интернете. Если вы хотите "помочь науке", &ndash;  присылайте ссылки на свое фото, и оно займет достойное место в нашей коллекции. Все материалы проходят жесткую персональную премодерацию. Достоверность контента стремится к 99%.</p>
+      </div>
+      <div class="main">
+         <div class="main_2">
+            <div class="left_block">
+               <h4>Нас можно найти в Москве:</h4>
+               <img class="contactsimg" src="img/c4.jpg"  alt="Адрес:Москва,Кремль,1">  
+            </div>
+            <div class="right_block">
+               <h4>Нас можно найти в Краснодаре:</h4>
+               <img class="contactsimg" src="img/c5.jpeg"  alt="Адрес:Краснодар,Красная улица,135">  
+            </div>
+         </div>
+      </div>
+      <!-- End Main -->
+      <!-- Footer -->
+      <footer>
+         <!--#include file="ssi/footer.shtml"-->
+      </footer>
+      <!-- End Footer -->
+   </body>
+</html>

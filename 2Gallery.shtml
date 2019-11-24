@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+   <head>
+         <title>Галерея</title>
+		 <!--#include file="ssi/link.meta.shtml"-->  
+   </head>
+   <body>
+      <!-- Header -->
+      <header>
+         <a href="#" title="Вернуться к началу" class="topbutton"><img class="top_button" src="img/rocket.png" alt="Ракета, перемещающая наверх"></a>
+         <nav>
+            <a class="logo" href="index.shtml"><img src="img/st.png" alt="Логотип"></a>
+            <ul class="navig">
+               <li><a href="index.shtml">Главная</a></li>
+               <li><a>Галерея</a></li>
+               <li><a href="3InterestingFacts.shtml">Факты</a></li>
+               <li><a href="4Contacts.shtml">Контакты</a></li>
+               <li><a href="5Blog.shtml">Блог</a></li>
+            </ul>
+         </nav>
+      </header>
+      <!-- End Header -->
+      <!-- Main -->
+      <div class="main">
+         <div class="gallery">
+            <img src="img/1.jpg"  alt="Космос/Звезды/Вселенная/Галактика">
+         </div>
+         <div class="gallery">
+            <img  src="img/2.jpg"  alt="Космос/Звезды/Вселенная/Галактика">
+         </div>
+         <div class="gallery">
+            <img src="img/3.jpg" alt="Космос/Звезды/Вселенная/Галактика">
+         </div>
+         <div class="gallery">
+            <img src="img/4.jpg" alt="Космос/Звезды/Вселенная/Галактика">
+         </div>
+         <div class="gallery">
+            <img src="img/5.jpg" alt="Космос/Звезды/Вселенная/Галактика">
+         </div>
+         <div class="gallery">
+            <img src="img/6.jpg" alt="Космос/Звезды/Вселенная/Галактика">
+         </div>
+         <div class="gallery">
+            <img src="img/7.jpg" alt="Космос/Звезды/Вселенная/Галактика">
+         </div>
+         <div class="gallery">
+            <img src="img/8.jpg" alt="Космос/Звезды/Вселенная/Галактика">
+         </div>
+         <div class="gallery">
+            <img src="img/9.jpg" alt="Космос/Звезды/Вселенная/Галактика">
+         </div>
+         <div class="gallery">
+            <img src="img/10.jpg" alt="Космос/Звезды/Вселенная/Галактика">
+         </div>
+         <div class="gallery">
+            <img src="img/11.jpg" alt="Космос/Звезды/Вселенная/Галактика">
+         </div>
+         <div class="gallery">
+            <img src="img/12.jpeg" alt="Космос/Звезды/Вселенная/Галактика">
+         </div>
+      </div>
+	  <!-- End Main -->
+      <!-- Footer -->
+      <footer>
+        <!--#include file="ssi/footer.shtml"--> 
+      </footer>
+      <!-- End Footer -->
+   </body>
+</html>
